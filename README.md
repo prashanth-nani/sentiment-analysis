@@ -1,4 +1,4 @@
----Snapdeal Review Grabber---
+-----Snapdeal Review Grabber-----
 
 Features:
 * Option to choose a proxy connection
