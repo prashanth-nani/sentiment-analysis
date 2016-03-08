@@ -31,6 +31,7 @@ To install the requirements run these commands in the same order:
 
 
 How to run?:
+
 1st method:
 * ./snapdeal.py (By default uses python3.5)
 
