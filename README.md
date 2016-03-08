@@ -33,7 +33,7 @@ How to run?
 * 1st method:
 	- ./snapdeal.py (By default uses python3.5)
 * 2nd method:
-	- python3 snapdeal.py (Uses any python 3+ version available)
+	- python3 snapdeal.py (Uses configured python 3+ version available)
 
 
 Github link: https://github.com/prashanth-nani/snapdeal-review-grabber
