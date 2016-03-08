@@ -30,10 +30,10 @@ To install the requirements run these commands in the same order:
 
 
 How to run?
-1st method:
-* ./snapdeal.py (By default uses python3.5)
-2nd method:
-* python3 snapdeal.py (Uses any python 3+ version available)
+*1st method:
+	- ./snapdeal.py (By default uses python3.5)
+*2nd method:
+	- python3 snapdeal.py (Uses any python 3+ version available)
 
 
 Github link: https://github.com/prashanth-nani/snapdeal-review-grabber
