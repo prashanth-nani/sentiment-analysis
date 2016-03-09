@@ -22,11 +22,10 @@ Requirements:
 	
 To install the requirements run these commands in the same order:
 * sudo apt-get install python3
-* sudo apt-get install python3-pip
+* sudo apt-get install python3-pip (v8.0.3+)
 * sudo pip3 install bs4
-* sudo pip3 install requests
-* sudo pip3 install os   (This may be already present by default)
-* sudo pip3 install re
+* sudo pip3 install requests (v2.9.1+)
+* sudo pip3 install regex
 
 
 How to run?
