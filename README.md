@@ -32,7 +32,7 @@ $ sudo pip3 install regex
 ### How to run?  
 * 1st method:
 ```shell
-./snapdeal.py #By default uses python3.5
+./snapdeal.py #By default uses python3.5 if available
 ```
 * 2nd method:
 ```shell
