@@ -15,26 +15,21 @@
 	- requests (v2.9.1+)
 	- os
 	- re
-	
-####To install the requirements run these commands in the same order:
+
+#### To install the requirements run these commands in the same order:
 ```shell
 $ sudo apt-get install python3
-$ sudo apt-get install python3-pip  #Need atleast v8.0.3
+$ sudo apt-get install python3-pip  # Need atleast v8.0.3
 ```
-If `pip3 --version` is <8.0.3. You can get it [here](https://bootstrap.pypa.io/get-pip.py "pip3") and install it by running `sudo python3 get-pip.py`.Then continue with the remaining installation process.
+If `pip3 --version` is <8.0.3. You can get it [here](https://bootstrap.pypa.io/get-pip.py "python pip3") and install it by running `sudo python3 get-pip.py`. Then continue with the remaining installation process.
 
 ```shell
 $ sudo pip3 install bs4
-$ sudo pip3 install requests 
+$ sudo pip3 install requests
 $ sudo pip3 install regex
 ```
 
 ### How to run?  
-* 1st method:
-```shell
-./snapdeal.py #By default uses python3.5 if available
-```
-* 2nd method:
 ```shell
 python3 snapdeal.py #Uses configured python 3+ version available
 ```
