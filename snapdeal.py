@@ -23,7 +23,7 @@ log_file.write("Caught Exceptions\n")
 log_file.close()
 
 base_url = "http://www.snapdeal.com/acors/json/product/get/search/175/{}/48"
-product_num = 0
+product_num = 545
 while True:
     url = base_url.format(product_num)
     print("Processing products {}-{}".format(product_num, product_num+47))

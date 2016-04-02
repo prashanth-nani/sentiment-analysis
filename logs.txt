@@ -1,0 +1,48 @@
+Caught Exceptions
+
+Error 404 while retrieving http://www.snapdeal.com/product/samsung-b105e/637818000995/reviews?page=1
+
+Exception while processing: http://www.snapdeal.com/product/lenovo-a328-white/1688083903/reviews?page=1
+Exception: expected string or bytes-like object
+
+Exception while processing: http://www.snapdeal.com/product/philips-e130-black/900517145/reviews?page=17
+Exception: expected string or bytes-like object
+
+Exception while processing: http://www.snapdeal.com/product/oplus-xonphone-5/715588315/reviews?page=62
+Exception: expected string or bytes-like object
+
+Exception while processing: http://www.snapdeal.com/product/karbonn-android-one-red/1389076706/reviews?page=91
+Exception: expected string or bytes-like object
+
+Exception while processing: http://www.snapdeal.com/product/karbonn-k22-plus-black/315416304/reviews?page=11
+Exception: expected string or bytes-like object
+
+Exception while processing: http://www.snapdeal.com/product/karbonn-android-one-white/418188314/reviews?page=89
+Exception: expected string or bytes-like object
+
+Exception while processing: http://www.snapdeal.com/product/gionee-p2-black/919742976/reviews?page=3
+Exception: expected string or bytes-like object
+
+Exception while processing: http://www.snapdeal.com/product/micromax-unite-2-a106-pristine/1303448638/reviews?page=87
+Exception: expected string or bytes-like object
+
+Exception while processing: http://www.snapdeal.com/product/micromax-unite-2-a106-pristine/1303448638/reviews?page=91
+Exception: expected string or bytes-like object
+
+Exception while processing: http://www.snapdeal.com/product/intex-cloud-fx/1356760619/reviews?page=69
+Exception: expected string or bytes-like object
+
+Exception while processing: http://www.snapdeal.com/product/micromax-a114-canvas-22-white/1824077996/reviews?page=24
+Exception: expected string or bytes-like object
+
+Exception while processing: http://www.snapdeal.com/product/karbonn-android-one-blue/1938355391/reviews?page=83
+Exception: expected string or bytes-like object
+
+Exception while processing: http://www.snapdeal.com/product/micromax-canvas-nitro-a310/2095139198/reviews?page=172
+Exception: expected string or bytes-like object
+
+Exception while processing: http://www.snapdeal.com/product/micromax-canvas-nitro-a310/2095139198/reviews?page=172
+Exception: expected string or bytes-like object
+
+Exception while processing: http://www.snapdeal.com/product/lg-l90-white/434392868/reviews?page=5
+Exception: expected string or bytes-like object
