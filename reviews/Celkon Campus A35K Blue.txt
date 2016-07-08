@@ -1,0 +1,350 @@
+Review No.	Reviewer Name	Date	Verified Buyer	Title	Review
+1	vasu	Jun 30, 2015	Yes	"I would buy this product again and again"	not so bad
+2	Madan Mohan Reddy	Jun 30, 2015	Yes	Very Good Phone	Simply superb in this price range.
+3	arul kumar	Jun 30, 2015	Yes	awesome look nd feature...	celkn campus a35k is best option in this price...nice look and awesome function and speed...touchscreen expirience very good...price comparetivly very cheap and from market... i would recommed all of you buy this phone...
+4	Manoj Kumar	Jun 30, 2015	Yes	Good hand set for initiative budget.	Camera quality not looks as declared in specifications.
+5	Ak	Jun 30, 2015	Yes	awesome app	awesome app,I like it ,great app good job.
+6	bunty	Jun 30, 2015	Yes	Nice product	Good one .
+7	kichha	Jun 30, 2015	Yes	most useful.Quality and shape are very good and nice.	clear sound , easy maintain, light weight totally i like this product. i have recommended me friends and relative  to purses as items..
+8	phone user	Jun 30, 2015	Yes	Easy to use	nice phone
+9	LAKSHMI PRASAD	Jun 30, 2015	Yes	Perfect. It doesn't get any better	it is good........and also improve  the charging capicity better than this
+10	EXIX	Jun 30, 2015	Yes	CHEAP AND BEST	NEW MOBILE. SLIM AND LIGHT WEIGHT. LITTLE BIT SLOW PROCESS. BUT VALUE FOR MONEY. I LIKE IT . BUDJET PHONE. THANK U
+11	narayana	Apr 21, 2015	Yes	easy and light weight	the phone has got lot of feature and light segment with less cost compared to others.It is idle for the regular and rough user like a common man.
+12	ramesh2sun	Apr 21, 2015	Yes	Provides enough features for this amount	Good stuff
+13	sankar	Apr 21, 2015	Yes	Good	Good experience. no issues.
+14	DEEPAK	Apr 21, 2015	Yes	not best	Its memory was too law
+15	sweety	Apr 21, 2015	Yes	good phone.	good phone with great features.
+16	Vinayag.	Apr 21, 2015	Yes	Not bad for this price range.	Not bad for this price range. Battery backup is good. Camery is very poor.
+17	Suman	Apr 21, 2015	Yes	besr phone	This is nice phone its work so fast    I like it .
+18	joy	Apr 21, 2015	Yes	Average product	The quality of this product is average. The display of this product is not good.Internal memory is very low.
+19	huzef	Apr 21, 2015	Yes	good phone but not very good	phone is good volume is superb camera is not well & process is slow.
+20	suresh	Apr 21, 2015	Yes	best for this price..	this is the best product for cheapest amount...
+21	Armaanveer Singh	Mar 17, 2015	Yes	Good	Very good product, in this price range... 4.4 android make this mobile up-to-date handset...
+22	Puttu	Mar 17, 2015	Yes	good product	Low budget smartphone
+23	KIRAN	Mar 17, 2015	Yes	low budget best mobile	One of the best low budget mobile
+24	GUNA	Mar 17, 2015	Yes	Nice	Very cheap phone
+25	Solipsist	Mar 17, 2015	Yes	Hands-down winner Sub-3000 rs category !	Apart from the usual cons of a low-cost bar it scores on the Android versioning that sees it ahead of most competitors... The sprd optimizer software does a neat job of keeping the inbuilt memory relatively clutter-free. Use Advanced RAM optimizer from PlayStore if you need more controls... The inbuilt file manager is absolutely superb with easy listings of audio, video, docz etc in an intuitive format. Unfortunately i haven't been able to find the app on PlayStore :(  Must buy as a secondary bar [like its namesake :P]
+26	Gulu	Mar 17, 2015	Yes	Good  Phone	good but not so good ,if u installed more apps it will hang.....
+27	curl sathiya	Mar 17, 2015	Yes	simple with good and easy to use	for beginner  its very easy to access
+28	adi	Mar 17, 2015	Yes	not a good product.....	not at all satisfied with the product...sound quality of the phone is terrible......neither you are able to hear properly nor you are being heard properly.also signal strength is low ........while i used other mobiles like that of nokia i used to get full signal.but in celkon getting full signal everywhere is a doubt
+29	sundrjn	Mar 17, 2015	Yes	worth the money	worth the money
+30	Varghese Oonni	Mar 17, 2015	Yes	That's Good Stuff	Good service
+31	pankaj	Dec 30, 2014	Yes	good but not recomended	earphone is broken
+32	..	Dec 30, 2014	Yes	poor performance	Not good & not bad
+33	@ahmed@	Dec 30, 2014	Yes	celkon	poor quality phone,battery backup is not good and the phone get hanged after installing some apps........
+34	shiva	Dec 30, 2014	Yes	shiva	Ya this phone is not bad but very slow process in this phone ram
+35	nidhin	Dec 30, 2014	Yes	budget smartphone for light use	another value for money smartphone from celkon without compromising on quality. anyone with a shoestring budget can also enjoy  the latest android os. would definetly recommend for smartphone beginners
+36	shyam	Dec 30, 2014	Yes	very good cellphone now a days	light weight and good performance and cost is also reasonable today market value . it very useful to me  thanks
+37	Najoomi Daljeet singh Gir	Dec 30, 2014	Yes	Awesome kitkat & Indian brands phone in this price	I bought this Celkon A35K white color mobile for my wife.... Mobile looks very stylish & light weight that is perfect for Homely women's..... But Battery backup is not Good -otherwise everything OK OK....
+38	praveen kuamr	Dec 30, 2014	Yes	Camera clearence is not good not bad	its ok for just comparing the cost,but c the camera clarity then audio its ok, although phone is usable for office purpose and couple chatting,,,,, not for video or audio high importance.
+39	Leela	Dec 30, 2014	Yes	Celkon A35K white is not good	battery is not standing for 12 hrs, frequently needs to charge, frequently hanging, not satisfied
+40	pks	Dec 30, 2014	Yes	nice set	nice set
+41	sssssssss	Dec 05, 2014	Yes	best smart phone	best use for all smart app experience,, except playing high resoluation games. other way its perfect,, no hanging problem. good battery backup.
+42	RAJA	Dec 05, 2014	Yes	Excellent	low cost android mobile has a best one
+43	usdhindsa	Dec 05, 2014	Yes	Great Device @ Great Price	The phone is worth its price.
+44	kamal	Dec 05, 2014	No	Average, Ordinary	battery performance is so low
+45	Mallikarjuna	Dec 05, 2014	Yes	Cheap & Best Android Mobile	Nice range ... good rate
+46	VIVEK	Dec 05, 2014	Yes	EVEN DEVIL LOVE TO USE IT	VERY GOOD MOBILE,ITS MY FIRST SMARTPHONE,VERY SATISFACTORY,I WILL GIVE IT 5/5 IF THEY PROVIDE ME WITH A NICE HEADSET AND SOUND SYSTEM
+47	Pawan	Dec 05, 2014	Yes	Review after using it for 2 months	This is a good mobile, I didn't expect good performance at this price. I just bought it for basic use but is performing beyond my expectation. Pros. 1. No lagging or hanging while using internet (2G) 2. Touch is good when compared with mobiles of this cost 3. Android kit kat 4.4 4. Even I used it for video calling and it worked well 5. Battery easily sustains for a day with moderate use 6. Can use it rough and tough 7. No heating issuses 8. It supports all the features of a high end phone like wifi GPS GPRS etc 9. Secondary camera Cons 1. Poor camera quality (Cannot expect better at this cost) 2. Mobile size is big and screen is small. One can fit 4.5 inch screen easily at this sized mobile OVERALL THIS PHONE WORTH MORE THAN ITS PRICE
+48	Rakesh	Dec 05, 2014	Yes	nice one	very good product at this price range.
+49	Rajasekhar Reddy	Dec 05, 2014	Yes	very good KItkat	Nice product, no problems so far. All time wi-fi connected, the battery lasts for me one and half day. This is stand by smart phone at my home. I gifted this phone to my spouse. At this price I give 5 star rank. voice over speaker is not good.
+50	raja	Dec 05, 2014	Yes	verrrrryyy bad...nothing good..	after two month of use ..poor batery life... while talking it fls lik my ear is on hhot water bag...it hangs..touchpad is not so smooth..cal gets cut smtim by its own.. i blame myself y i brought dis phn...oders u r on ur own
+51	sreeram	Oct 30, 2014	No	excellent product	a great product for its rate
+52	sandy	Oct 30, 2014	Yes	in time delivery	Snapdeal has delivered this product before promised time period...awesome.
+53	Yughiusshopping	Oct 30, 2014	Yes	Good phone for the price	Good display and camera. SD card not recognised but got it fixed at service centre. Unable to install applications as memory space is very low.
+54	arorass898	Oct 30, 2014	Yes	Good phone	You will not get a KitKat phone at this price!
+55	Hari Babu	Oct 30, 2014	No	Average, Ordinary	budgeted smart phone for all camara was bad  3g sometimes not working less ram battary backup was very poor
+56	Bhayyu	Oct 30, 2014	Yes	Calkon campus A35K Blue	Its perfect mobile in very short budjet
+57	Sree	Oct 30, 2014	Yes	Very bad quality slow phone -hot battery	Bad quality of the build Slow response Battery heats up like a hot brick  Basically NOT using the phone. My daughter uses it only as an alarm clock.
+58	SREE	Oct 30, 2014	Yes	WORST MOBILE !!! DO NOT BUY !!!	I BOUGHT THIS MOBILE ON THE VERY FIRST RELEASE ITS OK AT THE BEGINNING BUT NOW !!! IT IS NOT GETTING CHARGED !!! BATTERY NOT AT ALL CHARGING CELKON CUSTOMER SUPPORT IS VERY POOR  THEY DONT GIVE RESPONSE I AM FED UP WITH CELKON  I SUGGEST YOU NOT TO BUY THESE MOBILE ESPICIALLY CELKON !!! I GOT BAD EXPERIENCE WITH CELKON
+59	the user	Oct 30, 2014	No	not good	internal memory is very low dualsim is not working only single is working
+60	Suraj	Oct 30, 2014	Yes	value for money	Android kitKat at such a low price is itself a big plus. The phone is working fine. Before buying this phone I read some reviews saying not a good phone. For all those reviewers I would only say "we should not expect feature/quality of iphone at the price of 3k!" Overall a nice phone for starters. Good experience with snapdeal :)
+61	Saikumar	Oct 18, 2014	Yes	its decent	bought it for basically net calls by skype/viber. It works good. But I would have expected the front cam to be atleast a bit more decent, if so would have given 5*. Now just use for voice net calls.  not the best sound quality  One of the best prices for my requirement.
+62	panneer	Oct 18, 2014	Yes	good mobile	this is best mobile in low budget got letest android 4.4 kitkat thats great thing and rear and front camera its good for video calling   over all in this price range this mobile good
+63	good	Oct 18, 2014	Yes	best	good & nice & esily
+64	Ashish pateriya	Oct 18, 2014	Yes	Very good product	this is very good product i have purchase before 2 month and i am very satisfied with this mobile. celkon campus A35k blue come with Android Kitket 4.4 this is good with time and technology. i think this is most recommended product.
+65	muthu	Oct 18, 2014	Yes	Touch is not working	Its not a good phone. please remember if cost is low than you have to compromise with quality. Touch is not working. I dont know how to fix it. Internal memory is very low. so dont try this product
+66	Rahul	Oct 18, 2014	No	Average, Ordinary	this is a good mobile only if you want to use as a dual sim mobile with whats app on it.. Real Review after constant use of 2 weeks now..  Pros. â¢ Great Looks Sleeeek and Slim, Looks kinda sexy! â¢ Lite in Weight â¢ No Hang Problem even when the RAM is just 256MB â¢ Volume is Loud and Clear â¢ Touch is ok.. â¢ Internet is ok ok Speed...   Cons. â¢ When I said use is like a whats app mobile then i mean it! NO other app needs to be installed because it would slow the Mobile. I have only Whats App & Google Keep Notes  THAT's IT! â¢ Specially needed to search Lite Ram Games online.. â¢ any good game won't work!  Wrost Con. â¢ Battery! very poor Battery.. If you want to use this mobile in local city then it's ok don't expect much when you plan travel â¢ Buy only if you use 3G onlyyy when you need it.. not like one of those as me who likes to keep 3G on always! â¢ You can not find any flip cover in local market only one e commence website sells it!   I can not recommend it because Battery issue in a smart phone is a BIG ISSUE..
+67	Guest	Oct 18, 2014	Yes	not so good	very slow ...not useful for multipurpose ...only one app can be used ...low internal memory
+68	Funny Guy	Oct 18, 2014	Yes	good buy	Celkon Campus A35K Blue by Celkon good product but camera was not all good but over all good
+69	abhi	Oct 18, 2014	Yes	kam dam me jyada maza	GOOD LOOK,SOUND CLEARTY SO GOOD,CAMERA QUALITY VERY CLEAR
+70	mahaboob	Oct 18, 2014	Yes	low price badia mobile	this mobile is best celkon campus a35 is small android . best performance.
+71	geekay	Oct 07, 2014	Yes	Dont expect more in this price	Good one for those who are new to android.
+72	Sun	Oct 07, 2014	Yes	Nice for the price	Good for 2999/-
+73	Ramesh	Oct 07, 2014	Yes	Perfect cellphone in this price slab	Chep & best
+74	Anurag	Oct 07, 2014	Yes	Slow Processor	Bad Android working, low battery
+75	Prasad	Oct 07, 2014	Yes	some good	For low camera with video night the darkness but can't light of white camera with video. We have sad for one intersd memory low matter. Use 3g video calling for my deaf sign language hand to videos calling well.
+76	MAHESH NAGAR	Oct 07, 2014	Yes	Celkon Set is best mobile	sleem phone is a android smartphone in best feature and good loking.perfect.. a
+77	kummu	Oct 07, 2014	Yes	good but	battery is bad,cam weak ,low memmory...overall not bad to buy
+78	swasthik	Oct 07, 2014	Yes	mobile is worst	mobile is not good
+79	W AND W	Oct 07, 2014	Yes	It is ok!	Internal memory can be little bit more to meet the requirements. For those who have used high end smart phone the speed is disappointing. Though well featured usage is limited. Battery does not stay long.
+80	shiva	Oct 07, 2014	No	BEST PHONE	Celkon and snapdeal made Impossible - I'm Possible.  The Android KitKat perked smartphone, which comes at the price that is close to a feature-phone, has a lot to offer. The handset comes with a 3.5-inch capacitive touch screen display which offers a resolution of 320 x 480 pixels and it's not much of the kind that the current smartphone users would go for. But yes, for the first time buyers it does offer a pocket-friendly build and a latest OS pre-loaded in it. More-precisely, the Campus A35K measures 119 x 63 x 10.7 mm and owing to the plastic material used in the production of the phone, it weighs just 102 grams. The plastic Celkon has used in the device is not too thin as well but its thickness is such which can beat other devices which come with thin bendable back panels that we have seen in most of the smartphones.   To speak technically, there is a 3.2MP rear camera with an LED flash and a front facing VSA shooter as well  you also don't need to worry about the connectivity options as well. It has a Bluetooth, 3G, GPRS, EDGE, Wi-Fi 802.11 b/g/n and micro USB slot as well. Moreover, it has a Dual SIM slot as well.  If you are not aware, offering 3G support in a phone priced so low is also a USP in itself. You can hardly find any smartphone with 3G video calling support at this price range. Thus, Celkon has actually made a very good decision by using this particular feature available in the phone.
+81	Senthil	Sep 29, 2014	Yes	Worst	Not good worst
+82	MD MAMOON ALI	Sep 29, 2014	No	ESSY FUNCTION	Powerful Processor this is best mobile in low budget got letest android 4.4 kitkat thats great thing and rear and front camera its good for video calling  &  only 3k phone with kitkat os cant tell any pros and cons because if u need to us android 4.4.2 its the only choice because manymid range phones of samsung,sony,htc itself is not getting android update this phone as kitkat os overall product is good at this price
+83	Anand	Sep 29, 2014	Yes	Its poor man's smart phone	The phone is good for those who only want to flaunt a kit kat mobile but do not use it for anything bcoz the battery life is very poor.
+84	HARI	Sep 29, 2014	Yes	GOOD	NICE PRODUCT
+85	MANISH NIRVAN	Sep 29, 2014	Yes	excellent	Battery Backup is not so  bad. Other good features are Nice Touch Amazing speed Latest softwares Total value of money  Salute to Celkon
+86	ImMortal	Sep 29, 2014	Yes	nice phone	Pros -  Price Android Kitkat 4.4.2 Good display        Nice look Lightweight Battery Backup is ok  Cons  Useless camera Low Ram  Overall satisfied its good phone
+87	vicky	Sep 29, 2014	Yes	its ok	no storage space, no accessories for this mobile exp. flip cover or screen geared at list silicon cover also not available. net ok, battery normal
+88	aaaa	Sep 29, 2014	No	worst	512 mb internal memory is nt there..only 134 mb internal storage..also Ram is not 256mb ram....worst..
+89	samir dey	Sep 29, 2014	Yes	good	Good product but slow
+90	Naga	Sep 29, 2014	Yes	Super perform	Low price,kitkat os, very good performance.  net connection very fast. 3g video call and wifi hotspot is good working.
+91	bsr	Sep 19, 2014	Yes	average product	3g is not working, no app for operating flashlight, camera is not worth, mentioned internal memory is not available.
+92	mahesh	Sep 19, 2014	Yes	Good Product	Good for them who looking smart phone at cheap price  i liked it hotspot wi-fi feature
+93	Mohan	Sep 19, 2014	Yes	It's Not worth for Money	Celkon Campus A35K Blue has poor camera, poor battery backup, only good things is very light weight hand set and gives good look appearance totally its an worthless mobile for your money plz dont buy friends
+94	csdkarthik	Sep 19, 2014	Yes	Celkon Campus  A 35 K	Good Mobile, OS Version OK, But Battery no long, drains in 12 hrs, Memory also low
+95	fire	Sep 19, 2014	Yes	good	hit
+96	Hemant Kumar	Sep 19, 2014	Yes	Love it !!!	this is the best mobile, It has higher features than my samsung galaxy Y duos, Im completely satisfied with this mobile, can't be better than this. Just need to add external memory to get the best from it. Pros: Touch, Screen clarity, light weight, Cons: Camera is very low, Sound is just above the average.
+97	RIyaz	Sep 19, 2014	Yes	Good	Good
+98	srini	Sep 19, 2014	Yes	Good mobile @ low cost	Hi,  I am using this mobile for the past couple of days and found to be good one.. only  cons which i found is fazed view when we move mobile in up or down side.
+99	ANAND	Sep 19, 2014	Yes	worst mobile	DONT BUY THIS MOBILE CELKON IS  100% NOT A GOOD PHONE
+100	thiru	Sep 19, 2014	Yes	improvement ok	its nothing but ok
+101	jagan	Sep 09, 2014	Yes	ok	it is ok at this cost compare to others.
+102	Sharif khan	Sep 09, 2014	Yes	Perfect Phone	Perfect Phone from celkon.. very stylish and handy phone almost every game support and runs smoothly. just ram is low.. camera is ok, front camera is very good.
+103	sai krishna	Sep 09, 2014	No	its a great phone with low ram	i liked the phone a lot its design and performance only the thing i dont like is that the ram if we install more than 5 to 8 apps its starts lagging so i dont recommand this phone for heavy app user u can go for another........................finally i like the phone :-)
+104	Jim the Runner	Sep 09, 2014	Yes	I would buy this product again and again	perfect
+105	Bharath	Sep 09, 2014	Yes	good product for this price range	good product for this price range
+106	krrish	Sep 09, 2014	Yes	Not Bad	Not Bad, ok
+107	chandu	Sep 09, 2014	Yes	excelent set	3g mobile on low cost.
+108	RAHUL SINGH SOY	Sep 09, 2014	Yes	NICE PHONE..	NICE PHONE
+109	ramu	Sep 09, 2014	Yes	snapdeal again with good deal	i am happy with this. the mobile working with little bit lag. other wise this is good. camera is good.display color not great its quite dull. sound is clear.
+110	dev	Sep 09, 2014	Yes	Dont Waist your money	this phone is just like dummy, data connection is very poor,keeps hanging even if you open one app,network connectivity in 2g or even in 3g is very poor.
+111	RAJ	Aug 22, 2014	Yes	Really Good	Cheap and Best Phone and Good price.
+112	man	Aug 22, 2014	Yes	ok	supr
+113	Shadhin	Aug 22, 2014	Yes	ok	poor voicecall incoming & outgoing sound quality.
+114	6face	Aug 22, 2014	Yes	celkon a35 k	its very worst phone dont refer others.my charger is not working
+115	rizram	Aug 22, 2014	No	Good Product	Amazing Product at low price
+116	Rama Sarma	Aug 22, 2014	Yes	Strongly recommend	Worth buying in this price range. Good looks. The only problem is you can not view from an angle.
+117	Thunderstrike	Aug 22, 2014	No	Mobile Was Good For Middle Class People	The Mobile is good for 3K but The specifications which this mobile is not satifactioned This Mobile hav 256 MB Ram will not Enough to Use all apps And The mobile is quite laggy The Camera is not Enough Good Only VGA 3.2 MP With Torch Light Flash The Mobile Exterior was Simply Awesome  And Less weight I Bought this mobile as a Customer i'm satisfied with the price  i'm Not Satisfied with the specification which they mentioned below  The Only thing is Android 4.4 Kitkat is good Apps like Whatsapp,facebook messenger,facebook works nice but quite laggy But Temple run , subway surfers was worst in this mobile
+118	tanmay	Aug 22, 2014	Yes	very good all in one cellphone	celkon campus a35k at Rs 2999 what more u want it has every thing in it Android 4.4.2 OS (Kitkat),512 MB Internal Memory,1 GHz Processor,3.2 MP Rear Camera,3.5 Inch Display3G Video Calling,Wifi.What more at this price
+119	bit	Aug 22, 2014	Yes	thick thak h	ram bahut km h camera is not good
+120	kidnap singh	Aug 22, 2014	Yes	nice mobiles	3k worth
+121	Siddu	Aug 16, 2014	Yes	Good mobile for low  budget	Good mobile for low  budget
+122	jubair	Aug 16, 2014	Yes	Cellan campus Ask	Best budget phone
+123	sps	Aug 16, 2014	Yes	Good	all this r good
+124	Celkon Campus A35K Blue by Celkon	Aug 16, 2014	Yes	very good	low cost , very good
+125	mohan	Aug 16, 2014	Yes	celkonA35K	for the price , this is the best
+126	User	Aug 16, 2014	Yes	"Don't judge a book by its cover"	Not for too many apps
+127	giri	Aug 16, 2014	Yes	value for money	value for money....
+128	Hari hara sudhan	Aug 16, 2014	Yes	Good Product	Good Product for this cheap price  i recommend this product to you all
+129	django	Aug 16, 2014	Yes	Good Product at Cheaper Price	Only problem is its dual SIMs. One is CDMA!
+130	GHANSHYAM	Aug 16, 2014	Yes	adaquated  as price	THE PHONE IS PERFECT FOR THIS RANGE
+131	Nagarjuna	Aug 12, 2014	Yes	Touch is not working after 8 days	Faulty product  Touch is not working after 8 days
+132	Bibhash	Aug 12, 2014	Yes	A good one set	A very good phone in this range
+133	Maks	Aug 12, 2014	Yes	best buy for the offered price	best buy for the offered price
+134	Rathore	Aug 12, 2014	Yes	Best in this price range	It is best in its price segment. I highly recomend it over other brand. Best. Must buy product. You can compare and find that it is much better than micromax, lava, spice and other brands. It fits in budget. Most importantly latest android i.e. android kitkat 4.4. I love it. Must buy product. Design is also very nice.
+135	Ummi	Aug 12, 2014	Yes	SUPERB	Awessome phone in this price range & also has 4.2 o.s.
+136	Sureshraj	Aug 12, 2014	Yes	Internal memery low.........	Internal memery low.........
+137	Only D	Aug 12, 2014	No	Celkon Campus A35K (review)	Celkon Campus A35K offers exceptional value for its low price, and blows all other budget handsets out of the water. If you're looking for a cheap Android smartphone without having to compromise performance,looks,ease of use look no further.  The Good  Build quality Display Price Battery life  Satisfactory  Camera Processor  The Bad Non-backlit capacitive buttons  Custom ui is Fluid as well.
+138	Prax	Aug 12, 2014	Yes	Celkon A35k	Value for money. Buy with 8/16GB memory card. Has got all required in a smart phone. I bought 2 nos. Price is the attraction. Hope we get flip cover/ scratch gaurds as soon as possible on snapdeal. Thanks snapdeal for a good product.....
+139	srikar	Aug 12, 2014	Yes	nice product in low cost	thank you snapdeal for offering latest mobile in low cost & satisfying me
+140	Sofia	Aug 12, 2014	Yes	Nice Mobile	Good mobile for this Price
+141	somu64	Aug 08, 2014	Yes	value for money	Fulfills all basic needs of a latest android stuff. RAM is too less. How to shift stored apps to external storage is a big question to save RAM space.
+142	Mohit Sharma	Aug 08, 2014	Yes	One of the best phone in this price.	I bought this phone and its really v.good. It has great features along with beutiful design. Thwe touch of the phone is very impressive and battery backup is also good. Best Buy !!
+143	dev	Aug 08, 2014	Yes	Chipest Smart Android Phone	This phone is every thing perform perfect at this price label except internal memory is very low.
+144	Anubhav	Aug 08, 2014	Yes	cheap and good	Its very good But you cannot download much apps since internal memory is limited Perfect for a man not interested in much games and want it for average use. Also no back cover available neither a cheap screen guard.
+145	madhu	Aug 08, 2014	Yes	good	good
+146	pin2	Aug 08, 2014	Yes	good in budget	good in budget
+147	raju	Aug 08, 2014	Yes	excellent mobile	Very excellent mobile till now I have bought 2 mobiles
+148	Rakesh	Aug 08, 2014	No	Good Mobile in lo bugget	Good Phone in Lo budget.But Memory is not 512 Mb
+149	Srinivas@Bhairi	Aug 08, 2014	Yes	cheap and few days it will hange.	comapring price to other devices is to low for 3g, kit kat, wifi, 1400mah etc....... features but ram is 125mb is poor.
+150	Anil	Aug 08, 2014	Yes	Good phone.....	Value for money phone. This phone is best for secondary emergency phone. Ear piece hearing sound is good and headphone sound is also good. So i recommend it.
+151	Nvp	Aug 05, 2014	Yes	worth for money	Most of the features are working fine so for I have not faced any issues.couple of observations battery gets dried faster with WiFi enabled. Second I see internet speed is very good with wi fi but with Sim data connection it is really slow. For voice call incoming callbvolume is bit low. And we can not set two different ring tones for two sims. Also USB tethering I am still trying. But looks like it is not working.
+152	santhosh	Aug 05, 2014	Yes	smart phone with in less price	nice mobile for economy people
+153	Ram	Aug 05, 2014	Yes	very good fon	ram is low baki baad very good
+154	MATHAN	Aug 05, 2014	Yes	GOOD	MINIMAL USAGE PHONE IN LOWEST RATE WITH KITKAT OS
+155	TS	Aug 05, 2014	Yes	Celkon Campus A35K Blue	The product seems to be good.
+156	ram	Aug 05, 2014	No	good product	GENERAL 2G Network GSM 900 / 1800 - SIM 1 & SIM 2 3G Network HSDPA 2100 SIM Dual SIM (Mini-SIM) Announced 2014 Status Available. Released 2014 BODY Dimensions 119 x 63 x 10.7 mm (4.69 x 2.48 x 0.42 in) Weight 102 g (3.60 oz) DISPLAY Type TFT capacitive touchscreen Size 320 x 480 pixels, 3.5 inches (~165 ppi pixel density) SOUND Alert types Vibration, Polyphonic, MP3 ringtones Loudspeaker Yes 3.5mm jack Yes MEMORY Card slot microSD, up to 32 GB Internal 512 MB ROM, 256 MB RAM DATA GPRS Yes EDGE Yes Speed HSDPA WLAN Yes Bluetooth Yes USB microUSB v2.0 CAMERA Primary 3.15 MP Video Yes Secondary VGA FEATURES OS Android OS, v4.4.2 (KitKat) CPU 1 GHz Sensors Accelerometer, proximity Messaging SMS (threaded view), MMS, Email Browser Yes Radio FM radio GPS No Java Yes, via Java MIDP emulator Colors White, Blue - SNS applications - MP3/WAV/AAC/WMA player - MP4/H.264/H.263/WMV player - Photo/video viewer/editor - Organizer - Voice memo/dial - Predictive text input BATTERY Li-Ion 1400 mAh battery Stand-by Talk time MISC SAR EU 0.56 W/kg (head) 0.51 W/kg (body)
+157	M J PATEL	Aug 05, 2014	Yes	Good Low Budget Android Phone	This product can be described as good low budget android phone which is having all the features of smart phone. It has nice slick design, latest android version i.e. android kitkat 4.4, 3.2 MP back camera and front VGA camera, 3G connectivity, 1400 mAH battery and affordable price. The internet experience is also good when working on WIFI networks. Hence, this product can be described as good value product.
+158	sam	Aug 05, 2014	Yes	i m bay	Nice phone ram 250 but nice phone sabway is work this phone
+159	anand.m	Aug 05, 2014	Yes	better	celkonA35K modle very low budget rate,good oprating one small problem battary charge no standing
+160	SYED MUJTABA	Aug 05, 2014	Yes	CELKON CAMPUS A35K	I PURCHASE THIS FOR INTERNET USE BUT THE MOBILE 3G IS NOT WORKING.
+161	m.sridhar	Aug 02, 2014	Yes	nice product	best for budget all specfication phone. but we need extra battery backup.
+162	RAHIM	Aug 02, 2014	Yes	excellent quality ,nice one	super nice one
+163	anilkumargupta	Aug 02, 2014	Yes	good quality in iess price	Good mobile in less price
+164	Mohandas	Aug 02, 2014	Yes	Celkon A35K	Very Very Poor quality phone in all respects.  I never recomend anybody to buy this set.
+165	papa	Aug 02, 2014	Yes	Celkon Campus  good phone for use	This is my first android device and I had a thrill in using this device. Good job in making this masterpiece. Pros: Touch is great, nice looks, very fast and no lags, headphone provided is great, very nice display, clear and crisp Cons: Battery backup is poor, speaker not too loud, installed apps are not of great use, quite heavy (personal opinion)
+166	me, the sportsman	Aug 02, 2014	Yes	as compare to rates, quality is good.	the company name of the phone is new to me and my neighbours. but the quality of the phone (i.e. sound quality, 3g afficiency, looking quality,) is nice enough.
+167	vasudev	Aug 02, 2014	Yes	Good one this price	This product is very good for this lowest price.
+168	bala	Aug 02, 2014	Yes	super	amazing
+169	sree	Aug 02, 2014	Yes	celkon campusa35k	it's good improve camara 5 maga pixcal
+170	kanna	Aug 02, 2014	Yes	super	superrrrrrrrrr
+171	anantwarade	Jul 31, 2014	Yes	Best Android Phone with KitKat	Thanks to Snapdeal for bringing this product and Celkon for inovating such great product.It will bit all models and company.No one will provide such awesome product in such cheapest price.Since last one month I am using this phone. I am able to use Whatsapp, my office exchange email, kids games, songs, online banking, without any issue. You know how kids use the mobiles but still no issue, no crashes on screen. Celkon need to deal with banks to get their application compatible with this product.Everyone can go for this product.
+172	thirukumaran	Jul 31, 2014	Yes	Low Budget Phone	execellent phone
+173	satish	Jul 31, 2014	Yes	I am not happy your product	i bought celkon campus a35k phone last 2 week ago but this is defactive  one vertical line showing in screen. this problem automatic solved in starting but again iam facing this problem. and i want replace this product.
+174	vasanth	Jul 31, 2014	Yes	Super phone at low price	It realy nice to use and sound quality was very good,it running 720p videos overall very good phone on this price with kitkat 4.4.2.......
+175	Rajesh	Jul 31, 2014	Yes	nice mobile	Easy to use it light weight good mobile.
+176	Abhinav	Jul 31, 2014	Yes	Not Good	battery life,phone system and touch response is not good. sometimes phone automatic switched off.
+177	sarita	Jul 31, 2014	Yes	awesome smart phn	good
+178	veeru	Jul 31, 2014	Yes	excel	good
+179	Sheru	Jul 31, 2014	No	Nothing new in new phone	No battery backup. No clear images. no clear clear sound. what else you expect from new phone to function well!! Hanging in between calls. can speak only through left ear but not through right!! its just 1 week I got this phone and facing more problems than my old phone.!!
+180	yog	Jul 31, 2014	Yes	best product at low cost	super b product at this range
+181	Athithan	Jul 29, 2014	Yes	All is well	All is well
+182	Ooogabooga	Jul 29, 2014	Yes	Perfect Spare Phone	At the price point, it is the best phone out there.  It's slightly laggy (surprise surprise). Supports 3G & WiFi (no other phone in this range does). Runs Kit Kat (Nice).  I don't understand why they had to put on a OS Skin on a phone which is already underpowered. Stock Kit Kat would have been a much better option.   Nevertheless the audio is decent and so is the battery life. Seems durable, but should it break I do not expect great service from Celkon.
+183	tharun	Jul 29, 2014	Yes	Good cost	Looks like small but when compared to cost better
+184	kumar	Jul 29, 2014	Yes	Nice product @ Low Budget	Very Nice and using this mobile very cute
+185	Sudhaks	Jul 29, 2014	Yes	Unbelievable product!	The phone is looks very nice and 3.5inch display looks awesome. Very smooth touch screen access. The camera quality is very good. Very fast 3g connectivity. The price and specification is unbelievable. It's awesome phone. Only one drawback I need more battery power.
+186	chandra	Jul 29, 2014	Yes	Android 4.4 for a great price	Nice phone. Good sound. Sometimes bit annoying when making calls..but no complaints as it was known RAM size when purchased
+187	RI	Jul 29, 2014	Yes	Far more worth the price	For this price, you cannot expect anything better. I think its far more worth the price. For first time android users, its an ideal phone.
+188	Vivek kumar singh	Jul 29, 2014	Yes	good phone	Good product
+189	lal the winner	Jul 29, 2014	Yes	cellkon the desi touch mobile	nice product at this price range. but the outer cover and battery life can be much better.
+190	parag	Jul 29, 2014	Yes	Excellent	Excellent phone with excellent price...
+191	chinna	Jul 28, 2014	Yes	value for money	cool looking
+192	Ajay	Jul 28, 2014	Yes	Mobile is not good	Mobile has too poor quality of ear mic and sound is not clear its too bad.
+193	shastri	Jul 28, 2014	Yes	amazing	awesome
+194	R RAJAA	Jul 28, 2014	Yes	Awesome phone with Android kitkat	Good phone with clear speaker & reasonable sound at this price.  Value for money product.  Only two shortfalls: 1) Poor battery back up (For this, I bought Ambrane 5200 mAh digital power bank which is really good). 2) Not much apps.  But, at this price, it can be bought without any hesitation. Snapdeal has really offered a great deal. Kudos to Snapdeal.
+195	ROUSAN	Jul 28, 2014	Yes	THIS PRODUCT IS SO BED PROCESSING	THIS PRODUCT IS SO BED PROCESSING .AND INTERNAL MEMORY WAS 500MB SO I DONT INTSULED MORE APLLICATION
+196	raj gaurav	Jul 28, 2014	Yes	awesome.....	that's good product.... I'm using this product.. .and I'm satisfied from it.....sound quality is so good,,,,,speed of 2g net is also good.....
+197	tuntun	Jul 28, 2014	Yes	good	good phone in low range
+198	SureshBindu	Jul 28, 2014	Yes	supper	very nice budget phone for our money
+199	sreeprabu.ra	Jul 28, 2014	Yes	not a good product	celkon campus a35K blue is a very slow process model of touch.  it is very slow to open any application, and also battery is not up to mark; it reduces its percentage regularly even if not using the phone.  I have purchased improper model from celkon which cannot be used for fast purpose
+200	sur	Jul 28, 2014	Yes	Good Phone	Good but Luncher is too poor.
+201	asmith	Jul 26, 2014	Yes	worth	good
+202	NAG	Jul 26, 2014	Yes	VERY NICE	PERPECT MATCH FOR MIDDILE CLASS
+203	khande raao	Jul 26, 2014	Yes	best in price	gooooood 1. best in price & class
+204	Sri Sai	Jul 26, 2014	Yes	Really Genuine & Perfect.	I purchased the mobile 1st  time on online, I really liked the service & Mobile :-) Thank u Snapdeal.
+205	kd	Jul 26, 2014	Yes	celkon campus a35k	sound not good ,hang up, touch not good, battery not good, very very slow
+206	Nenee	Jul 26, 2014	Yes	I would buy this product again and again	Nice Phone
+207	Shamsuddin Khan	Jul 26, 2014	Yes	Perfect. It doesn't get any better	Excellent Android handset higher performance @ lowest price ... Just enjoying a taste of Kitkat.
+208	Anmol (Vicky)	Jul 26, 2014	Yes	Awesome Phone Worth Rs. 3000	My first android device. Best Cell in lower price with android 4.4.2 kitkat. Yet I didn't get any problem. Touch and loud speaker(For Clear Voice) is also best. It's Front camera quality is good But I can not video call on "LINE". Heavy applications like games doesn't run, battery backup is poor. Internal memmory is less. Over all it is best smartphone in very low price. Video recording quality is good. And It Support nokia WH-102 earphone.(It doesn't support Samsung,Gionee earphone) Slim & Lightweight
+209	Razi	Jul 26, 2014	Yes	Good working	Good working
+210	ume	Jul 26, 2014	Yes	gud low cost andriod but poor battery	Good features but runs of battery,Primary concern is HEATING OF PHONE While talking over 2-3 mins,feels like it `ll explode.rest of all features r good phone at such a low cost,bt poor quality of sound while talking.lot of screen space is wasted,could have increased,low pic resolution to be improved
+211	Dr surya	Jul 24, 2014	Yes	Celkon A35	Good phone per price.
+212	Santhosh	Jul 24, 2014	Yes	Good	it's better than  any another smartphone
+213	Red	Jul 24, 2014	Yes	Best android mobile in the price	Celkon's best android mobile in this prie range. i like the mobile look and with kitkat 4.4. ye ram in less so games re hanging to play otherwise the mobile is good. internal memory is just only around 200mb so cant install lots of apps. the camera is ok, mobile look is ok. battery is poor but ok for this mobile.
+214	RITU	Jul 24, 2014	Yes	VALUE FOR YOUR MONEY	BEST TO START WITH ANDROID OS
+215	Prabhu	Jul 24, 2014	Yes	Valuable product	Value for money
+216	munna	Jul 24, 2014	Yes	price is less but hanging slow perform	low ram low graphic display changed Kitkat UI if low signal automatically change signal 3g to 2g high end games not play poor camera etc.............
+217	Sanj	Jul 24, 2014	Yes	Ok	Found good one
+218	Rocky	Jul 24, 2014	Yes	Good	Perfect in Perfect Price
+219	ammu	Jul 24, 2014	Yes	celkon campus A35k blue	this is good.guaranteed and trusted
+220	ritesh kumar pandey	Jul 24, 2014	Yes	SUPER.............	SUPER.......................
+221	yashpund	Jul 21, 2014	Yes	Not a good phone	Its just a good looking piece of plastic, someone considering this as a good buy they should look anywhere else as just 256 mb ram cant handle the android,
+222	Jeyakumar	Jul 21, 2014	Yes	Celkon Camous A35K Blue	To this price range this is far better than Samsung when it comes to screen's response, Touch, audio clarity and easy to operate.   2999 INR is nothing for this mobile. Fit for family, first time smart mobile users.  It is worth to pay.
+223	ks	Jul 21, 2014	Yes	Celkon Campus A35K Blue	low internal storage space. sometime connected person can't hear.
+224	aj	Jul 21, 2014	Yes	Awesum	Its Awsum ph at amzaing price. mUst Buy...!!
+225	VAMANAA007	Jul 21, 2014	Yes	NICE PRODUCT........	GREAT PRODUCT FOR THIS PRICE RANGE.DONT MISS IT
+226	MKA	Jul 21, 2014	Yes	Nice Phone	I like this phone... It has very good feauters + very low price + 4.4,2 KitKat version..:-) I like this phone sooooo much... Paisa vasul..B-)
+227	david	Jul 21, 2014	Yes	good mobile	cheap and best mobile very atractive mobile android very  good but ram very low
+228	Harpreet Singh Sahni	Jul 21, 2014	Yes	great phone	Very nice phone in low budget. Good touch nice camera..
+229	sara - black pearl	Jul 21, 2014	Yes	display is waste , very low clarity	display is waste , very low clarity..better go for xolo...its ntotally waste phone...pls dont buy it
+230	rakesh	Jul 21, 2014	Yes	Good	Good phone at this price.
+231	Tublu	Jul 19, 2014	Yes	very nice	The phone may be treated as best of its class in such a low price. But the memory claimed to be there is 512 MB; while u can use 163 MB merely. And another cons is it has no proximity sensor.
+232	hari	Jul 19, 2014	Yes	mk	cheap and best smartphone+kitkat[latest version of Android]
+233	vicky	Jul 19, 2014	Yes	my first smartphone	This is my first android device and I had a thrill in using this device. Good job in making this masterpiece.
+234	sidd	Jul 19, 2014	Yes	Celkon Campus A35K Blue Awesome phone in	Very  very good offer by snap deal, if any one willing to have  it. product quality and performance are found to be most helpful.
+235	krish	Jul 19, 2014	Yes	Not much good for business level to use	Not much good for business level to use, its like normal phone set except android kit kat its low average phone set this set not for long talks because when I talk I feel too heat on ear sound also not clear
+236	Victor	Jul 19, 2014	Yes	A35K Mobile is failed in charger design	Battery backup is very very poor, after full charging it is retaining for 04hrs only.
+237	subbu	Jul 19, 2014	Yes	budget phone but perform is very high	I have buy two phone from snapdeal celkon campus a35k happy with the mobile thanks snapdeal
+238	guest	Jul 19, 2014	Yes	Excellent Mobile Phone	Intelligency Only Comes When We Use This Kind Of Mobile Phone.....Product Is Awesome And Greater Quality And Features For Least Price... It Deserves Really :) <3
+239	Sandy	Jul 19, 2014	Yes	Good One	Good One
+240	ranji	Jul 19, 2014	Yes	not bad	it is single core phone , can install app directly SD card, camera both front & Back is ok, under 3k this phone is super, battery is not good.
+241	girish	Jul 16, 2014	Yes	its good	its good
+242	KALYAN	Jul 16, 2014	Yes	Nice. Phone	I like this phone very much. Nice features in low range price phone.
+243	sivlu	Jul 16, 2014	Yes	celkon campus 35k	yha its better latest android its middle class budjet phone no doubt about that..... guys be happy
+244	Marcus	Jul 16, 2014	Yes	Celkon Campus A35K	Good Response and very happy with the services referred to me.
+245	kiran	Jul 16, 2014	Yes	simple and easy 2 use	the chep and best phone for communication in 3g nice  thanks to celkon and snapdeal
+246	bappa	Jul 16, 2014	Yes	celcon touch phone	good product
+247	Sanjay Chatterjee	Jul 16, 2014	Yes	Good Phone	Unbelievable to get a kitkat at his price. But the sound quality is a bit poor & RAM should have been at least 512MB.
+248	Laxman Dass	Jul 16, 2014	Yes	Nice	considering the cost factor, this phone is having best features.
+249	naani	Jul 16, 2014	Yes	cheap and best android kikat	simple and beautiful
+250	Shammi Kapoor	Jul 16, 2014	Yes	NO Buy.Batry discharge fast.Voice problm	Please Do Not Buy. Battery discharges within few hours. Voice problem. Difficult to hear/speak as voice is nto clear. Very low memory. Not recommended at all. Within few days of using it, I am going to buy any other phone from any other website. This phone is not good.
+251	Dinku	Jul 15, 2014	Yes	Cheap And Best	Cheap and best mobile in this price screen size and resolutions are good only one con that is internal memory is very low.
+252	Ahmed	Jul 15, 2014	Yes	Battery	good but battery
+253	Murralii	Jul 15, 2014	Yes	i gave 2 references for this product	this is excellent and budget phone.service is excellent and product is 100% new one.i feel very happy with that and features are well.
+254	Mahesh	Jul 15, 2014	Yes	Best one	lowest price, best configuration
+255	shameed	Jul 15, 2014	Yes	excellent	This is cheap and best android device compare with all other mobile.
+256	Chandru	Jul 15, 2014	Yes	super mobile smartphone	excellant product at this rate of purchase.I recommend this produt for others
+257	Rakesh	Jul 15, 2014	Yes	Good	Go for it.  But call quality was not that much.
+258	Jo	Jul 15, 2014	Yes	good for low income customers...	About similar to a galaxy S2....good battery back up...only problem is that, I can't read Malayalam through this. Also, the camera is not much better as it says 3.2 m.pixel.
+259	ansar ali KHAN	Jul 15, 2014	Yes	PRODUACT IS GOOD BUT IT IS SOME TIMEHANG	THIS MOBILE IS GOOD AND SAME TIME ITS HANGED BECOUSE OF SOFTWARE UPDATED
+260	nimma	Jul 15, 2014	Yes	hi	Ok item is good.but free Aircel  promo code expired has sent
+261	SAI	Jul 13, 2014	Yes	good	good
+262	bua	Jul 13, 2014	Yes	best phone in cheap rate	The phone is reallly very cheap in price bt have all da features of expensive smart phones if u keep less data in phone it works very smoothly.recommended strongly
+263	avinash vikram	Jul 13, 2014	Yes	latest celkon phones	Latest android and new features
+264	Pikun	Jul 13, 2014	Yes	GOOD PHONE BY CELKON	i'm using this phone since last 10 days the kitkat os is very smooth even if the hardware is poor but runs smoothly. the RAM should be at least 512MB, battery lasts for 10 hrs appx. its a good phone.
+265	Ganesh	Jul 13, 2014	Yes	Not Worthy	Frequently Hangs Worst Speaker Power key not functioning properly  Accessories not available in the market
+266	SHAM	Jul 13, 2014	Yes	Waste Of Money	* Very slow. * Touch screen is not good. * poor quality of sound
+267	prerana	Jul 13, 2014	Yes	good phone at this price	good phone.. bt phone memory is not much.. too low.. not able to download apps..
+268	krish	Jul 13, 2014	Yes	super	super
+269	katthi	Jul 13, 2014	Yes	avarage	its good.  only the battery is not good and slow applications
+270	santu	Jul 13, 2014	Yes	Good product	Celkon Campus A35K is good product
+271	vijayakumar	Jul 10, 2014	Yes	very nice, battery is not worthable	kindly improve the battery, battery charge  will be dicharge quickly  If possible kindly change my battery  thanks
+272	chintan Shah	Jul 10, 2014	Yes	Good phone against the selling price	I purchased Celkon A 119 Q HD  last year. It was very good Phone, but then after 4 months it had some problem with display. I sent the phone to service station for 3 times still the phone had the problem, eventually celkon top authorities were contacted by Me.   And With my surprise, they provided good service, I was not expecting to receive this kind of service in India. Though I have to chase them for days, but finally they sent me the Box Pack piece.  Purchasing of Celkon Campus A 35k was mainly due to the  reason that I have at least experienced their customer support earlier.   This was a gift so there wont be any feedback for the features as of now.
+273	Amaresh	Jul 10, 2014	Yes	Awesome phone in this price range	It's a good android phone. But low battary. Low budget
+274	jayesh	Jul 10, 2014	Yes	good	Very good at those price
+275	sudip	Jul 10, 2014	Yes	good phnone in this budget	nice phone and awesome touch
+276	BCD Tech	Jul 10, 2014	Yes	Celkon Campus A35K Cheapest KITKAT Phone	This is the cheapest KITKAT Phone in Indian Market. The MRP is INR 3299 on the box, but you can get it at INR 2999 at yours local retail market. The design is very slim and glossy. This phone has  1. 3.5 TFT screen,  2. 1 GHz processor 3. 1GB RAM 4. KITKAT out of box 5. Wifi, GPS, Bluetooth 6. 3g  7. Video Calling 8. 3.2 MP rear camera with flash 9. 2MP front camera for Video Call and chating 10. Low SAR 11. Low Price 12. Dual SIM support 13. Non Stock customized UI  The overall experience with the phone is very nice. And at such a low price this is very great deal.  BCD Tech https://www.youtube.com/watch?v=f9rEWrDfozE
+277	shaheer	Jul 10, 2014	Yes	good product	cost worthy i recommend
+278	skdubeyvns	Jul 10, 2014	Yes	ok	Poor battry ...backup and ram also
+279	P K	Jul 10, 2014	Yes	Affordable Kitkat Android mobile	Affordable Kitkat Android mobile for them who hav patience, who know how to handle your phone technically and can fish out the best from the limited resources available.
+280	Vicky	Jul 10, 2014	Yes	CelkonA35K is one of the best cellphone	Celkon Campus A35K is the best cellphone in very low budget king of smartphone among the Mobile industry.I am very happy with the performence of Celkon Campus A35K.  Regards, Umesh Jadhav Mumbai
+281	Rajesh	Jul 09, 2014	No	CDMA	Is Celkon Campus A35K Blue support CDMA SIM card???
+282	Ravi Salve	Jul 09, 2014	Yes	Best This Price	Great Android Mobile Phone . Kit kat version Fast & Good
+283	jas	Jul 09, 2014	Yes	excellent	Good phn
+284	arun	Jul 09, 2014	Yes	slow use	this mobile very slow camera very bad
+285	biswa	Jul 09, 2014	Yes	betary	betray breakup is not sufficient for my working time by this mobile.Overall the mobile is good. in various facilities in low price.flip cover not available in market.
+286	karthik	Jul 09, 2014	Yes	Celkon Campus A35K Blue	nice performance lowest budget phone
+287	Sathish	Jul 09, 2014	Yes	Nice and Priceworthy Product	really good product. Easy to use. Battery is also great. Priceworthy. Nice design and compatible.  The negative part is sometimes its hanging. The touch is not working in the sepeed of ur fingers while typing the message.
+288	pragadesh	Jul 09, 2014	Yes	celkon A35K average phone touch is bad	celkon A35K average phone touch is very bad it has lag which using. processor is o.k low internal memory
+289	Paul Azariah	Jul 09, 2014	Yes	cheap and best	cheap and best
+290	suresh53	Jul 09, 2014	Yes	Internal Storate is just 163 MB  not 512	Yesterday I got this mobile. I found that its internal memory is just 163 MB. Buyers confirm and buy.  https://www.celkonmobiles.com/?_a=mobilespecifications&pid;=185&sid;=1
+291	talam	Jul 07, 2014	Yes	good phone	Good phone in the range of 3k.This is only for whats app use only.the ram of this phone is very low&battery; also.
+292	Ramesh	Jul 07, 2014	Yes	Very Good	all the features in mobile are very good
+293	Sundar	Jul 07, 2014	Yes	very good	very good
+294	Pranab	Jul 07, 2014	Yes	its ok......	overall fine but memory 163 mb.(add was 512 mb)
+295	saidireddy	Jul 07, 2014	Yes	Celkon Campus A35K Blue	Processor was too slow, entertainment options are less, battery back up also less
+296	Srini	Jul 07, 2014	Yes	Don't buy Celkon Campus A35K Blue	With in 10 days my mobile Celkon Campus A35K Blue is not  working. Battery is very Poor. My suggestion is Dont by this type of mobile. It is wast of Money.
+297	Babu	Jul 07, 2014	Yes	Great	Low budget phone with highend future
+298	Avi	Jul 07, 2014	Yes	Best Phone !!.............	cheap and best, Fabulous features in lowest price.............
+299	laxmikant	Jul 07, 2014	Yes	superb	very nice
+300	Deva5665	Jul 07, 2014	Yes	Good mobile but low battery backup	Every thing is good but very poor batery backup
+301	umar	Jul 06, 2014	Yes	i got faulty piece	Low ear piece sound during voice calls, no google now features and google search bar for Android kitkat os & performance is very lagging
+302	Aly	Jul 06, 2014	Yes	Decent Phone	Online thing lacking is a good RAM
+303	ravi	Jul 06, 2014	Yes	not good	Not Good
+304	imran hasan	Jul 06, 2014	Yes	Touch is great, nice looks, very fast an	Touch is great, nice looks, very fast and no lags, headphone provided is great, very nice display, clear and crisp
+305	swamy	Jul 06, 2014	Yes	good	very very low cost
+306	PB	Jul 06, 2014	Yes	decent build and performance for price.	Ideal for a person moving into smartphone use. For the price, one can learn the intricacies of the Android O/S., and then move to a costlier phone.
+307	Hari	Jul 06, 2014	Yes	KITKAT	Its really unbelievable that celkon made this for people who wishes to buy at low cost. I gifted this to my friend who was looking for android phone with low budget.. This is most worthy and really classy with the title "Worlds cheapest Android Phone".. Congrats Celkon and SD team.
+308	vij	Jul 06, 2014	Yes	celko a35	Ifeel this one  is very poor one .the display is very slow touch screen is not good and not working properly. android is of no use because it is very slow.mobile 3g connection signals poor being in chennai city, ihave 2 other mobils which have good signals. expecting a good quality with latest version of android i bought this but really is not that worth. the phone is getting hot while charging and attnding calls. will u help me to replace
+309	mycomputergyaan	Jul 06, 2014	No	lowest kitkat Phone	Celkon and snapdeal made Impossible - I'm Possible.  The Android KitKat perked smartphone, which comes at the price that is close to a feature-phone, has a lot to offer. The handset comes with a 3.5-inch capacitive touch screen display which offers a resolution of 320 x 480 pixels and it's not much of the kind that the current smartphone users would go for. But yes, for the first time buyers it does offer a pocket-friendly build and a latest OS pre-loaded in it. More-precisely, the Campus A35K measures 119 x 63 x 10.7 mm and owing to the plastic material used in the production of the phone, it weighs just 102 grams. The plastic Celkon has used in the device is not too thin as well but its thickness is such which can beat other devices which come with thin bendable back panels that we have seen in most of the smartphones.   To speak technically, there is a 3.2MP rear camera with an LED flash and a front facing VSA shooter as well  you also don't need to worry about the connectivity options as well. It has a Bluetooth, 3G, GPRS, EDGE, Wi-Fi 802.11 b/g/n and micro USB slot as well. Moreover, it has a Dual SIM slot as well.  If you are not aware, offering 3G support in a phone priced so low is also a USP in itself. You can hardly find any smartphone with 3G video calling support at this price range. Thus, Celkon has actually made a very good decision by using this particular feature available in the phone
+310	smalthafh	Jul 06, 2014	Yes	nice phone	excellent feature
+311	madhu	Jul 05, 2014	Yes	superb	its.very nice.
+312	kalai	Jul 05, 2014	Yes	Awesome phone	over all in this price range this mobile good
+313	VICKY	Jul 05, 2014	Yes	Good Phone IN LOW BUDGET	PERFECT PHONE EVERYTHING GREAT BUT WITH LOW EAR PIECE VOLUME...
+314	Srini	Jul 05, 2014	Yes	Celkon Campus A35K Blue	Worth the price
+315	raju	Jul 05, 2014	Yes	very nice	its working fine..perfomence is good..
+316	bad memori bad tuch butans	Jul 05, 2014	Yes	Never purchase	Very bad product
+317	ak	Jul 05, 2014	Yes	best features in budget	pros: light weight and slim. good design. nice features. cons:low ram and storage memory. touch sensors are not as expected. poor battery.
+318	sk	Jul 05, 2014	Yes	celkon a35k	a good machine...
+319	madhav	Jul 05, 2014	Yes	good phone	i got the phone 2 weeks back it's performing good
+320	sekar	Jul 05, 2014	No	slow	ram is just 256 mb so it runs slow while running apps
+321	Shreedhar	Jul 03, 2014	Yes	Internal Memory Capacity Low.	Internal Memory Capacity Low.
+322	shatarup	Jul 03, 2014	No	Best Budget Android phone	i just got this today from SNAPDEAL,after unboxing i explore this device for quite sometime and its really good device within this price point. It got nice bright resolution with 3.5" screen, good built quality and good sensitive touch.  I have clicked few image with rear Camera (3.5MP) and those was really good. Also front camera(VGA) is prity clear to have nice video CHAT.  will update further after more exploration. Till now its really good to have.
+323	SHASHI	Jul 03, 2014	Yes	I WOULD  PRODUCT BUY NOT AGAIN	BATTARY BACKUP VERY POOR BUT HAND SET OK. SO PLEASE CHANGE BATTARY THIS HAND SET.
+324	sapna	Jul 03, 2014	Yes	good technology applied in low price	mobile look, picture clarity, sound effects on music player, features are more applicable on this set. This product is having good competitor skills for current use age for the people where they have requirement in low price with happy smile on their face
+325	chandoo	Jul 03, 2014	Yes	internal memory too low	everything is good about the phone if it comes with a little bit more of internal memory..albeit the external sd card it requires sone internal memory for most apps to run..bit of sluggish response
+326	Raja Gaddam	Jul 03, 2014	Yes	Poor Battery Back up	The Battery Is very poor.Design is Very Good.But battery is too bad.not even half Day....
+327	akshaya	Jul 03, 2014	Yes	the product is good	it is agood product but the battery consumption is more.
+328	Suresh	Jul 03, 2014	Yes	Good	Good! it is worth buying
+329	Munna bhai MBBS	Jul 03, 2014	Yes	Good phone	Good phone in this price..
+330	RAMM	Jul 03, 2014	Yes	PHONE	PHONE MODEL SUPER CAMERA GOOD,BUT LOW INTERNAL MEMORY AND LOW BATTERY BACKUP.
+331	Forerunner	Jul 01, 2014	No	great	that was a great review.
+332	SAT	Jul 01, 2014	Yes	CELKON A35K IS THE BEST IN MOBILES	NOW CELKON A35K IS THE BEST IN MOBILES. NOW I AM USING THIS MOBILE.LOW PRICE WITH MORE FECILITIES.With a 3.5-inch display, the Campus A35K sports a 3.2-megapixel rear camera, 0.3 megapixel front-facing camera and 512MB inbuilt storage (expandable up to 32 GB). The device supports Wi-Fi, Bluetooth, Micro-USB, and AGPS connectivity options along with 3G connectivity.
+333	Manoj (Swayam)	Jul 01, 2014	Yes	Internal storage	It doesnt seem to have 512 MB internal memory/storage, it seems to have only 163 MB internal memory in the phone which I have bought.
+334	Partha	Jul 01, 2014	Yes	Celkon A35K Blue	SIM 2 not working some times (we will hear message swiched off)  Battery back very low  Voice clarity not good
+335	gkris28	Jul 01, 2014	Yes	Celkon Campus A35K Blue	Its a full paisa vasool phone given to its price, has full features wifi,3G and all with good sound quality, really i love this phone.. this is going to be hit specially for the college students they will love it.
+336	RAMESH	Jul 01, 2014	Yes	INTERNAL MEMORY	INTERNAL MEMORY WAS NOT 512MB,IT IS 168MB ONLY IHAD RECEIVED, BALANCE OPTIONS ARE ALL VERY GOOD.EXPEPT GAMES.
+337	Rv Darji	Jul 01, 2014	Yes	Such a Nice budget Smart Phone	Nice phone with exellent features like Android 4.4 , Dual camara with flash,Screen seems give good touch response. Full On Phone ..
+338	Ash	Jul 01, 2014	Yes	don't judge a mobile by its view	I had been using this mobile and this mobile is good with features but it doesn't have battery backup it stays only for 3hrs without using any feature just for talk time this is worst battery backup I have ever see.so totally I suggest not to buy this phone.
+339	SUSHIL	Jul 01, 2014	Yes	an exquisite product from celkon	first of all its 3.5 inch fits in our hand perfectly and then its curved at the corners that makes it look extraordinary and it offers android kitkat which is latest in the market. it has a clear sound and its camera is also nice which is equal to 5 megapixel it has the maximum resolution of 640*480 which is almost average.then its vga camera offers 3g calling  the only bad thing about this is that it has 1400 mah battery and 512 mb ram.
+340	raj	Jul 01, 2014	Yes	Worst smart phone i never had in my life	worst smart phone and why i am saying this is because display is not working.Be carefull if any person want's to buy  smart phone go for a branded phone.
+341	aditya,	Jun 24, 2014	Yes	just amazing	Only 3K u can not expect more in this low price
+342	venky	Jun 24, 2014	No	does this phone supports any games...?	like temple run,subway suffers....or else its doesnt support this phone..plz help me frends..actually i am going to buy this mobile...plz give me some suggestions...
+343	sachin.babar18	Jun 24, 2014	No	Celkon Campus A35K Blue	all over this mobile is very good and very lowest price.good dude
+344	riya	Jun 24, 2014	No	perfect	good one same like moto e
+345	Rajesh M.R	Jun 24, 2014	No	latest OS	Poor battery,ram
+346	AMIT	Jun 24, 2014	No	Celkon Campus A35K Blue	this is best mobile in low budget got letest android 4.4 kitkat thats great thing and rear and front camera its good for video calling   over all in this price range this mobile good
+347	MD SAFIQUL ALAM	Jun 24, 2014	No	best in price	good
+348	vinith	Jun 24, 2014	No	excellent	only 3k phone with kitkat os cant tell any pros and cons because if u need to us android 4.4.2 its the only choice because manymid range phones of samsung,sony,htc itself is not getting android update  this phone as kitkat os overall product is good at this price
+349	praveen	Jun 24, 2014	No	3G android kitkat Mobile @2999	Celkon and snapdeal made Impossible - I'm Possible.  The Android KitKat perked smartphone, which comes at the price that is close to a feature-phone, has a lot to offer. The handset comes with a 3.5-inch capacitive touch screen display which offers a resolution of 320 x 480 pixels and it's not much of the kind that the current smartphone users would go for. But yes, for the first time buyers it does offer a pocket-friendly build and a latest OS pre-loaded in it. More-precisely, the Campus A35K measures 119 x 63 x 10.7 mm and owing to the plastic material used in the production of the phone, it weighs just 102 grams. The plastic Celkon has used in the device is not too thin as well but its thickness is such which can beat other devices which come with thin bendable back panels that we have seen in most of the smartphones.   To speak technically, there is a 3.2MP rear camera with an LED flash and a front facing VSA shooter as well  you also don't need to worry about the connectivity options as well. It has a Bluetooth, 3G, GPRS, EDGE, Wi-Fi 802.11 b/g/n and micro USB slot as well. Moreover, it has a Dual SIM slot as well.  If you are not aware, offering 3G support in a phone priced so low is also a USP in itself. You can hardly find any smartphone with 3G video calling support at this price range. Thus, Celkon has actually made a very good decision by using this particular feature available in the phone.

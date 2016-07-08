@@ -1,0 +1,8 @@
+Review No.	Reviewer Name	Date	Verified Buyer	Title	Review
+1	Chetan bendkule	Oct 19, 2015	Yes	Perfect	Nice products and nice services am very happy
+2	amar	Oct 19, 2015	Yes	Karbann	Its very best bettary backup and its very good
+3	Raj	Oct 19, 2015	Yes	Don't judge a book by its cover"	I like it!
+4	AKK	Oct 19, 2015	Yes	Superb looking mobile	Rich look and specs packed moblie at a very cheap price
+5	jashu	Oct 19, 2015	Yes	awesome	It is very easy to use even for a child. Internet work very smoothly
+6	BUTT AADI	Oct 19, 2015	Yes	BEST PRODUCT	MEETS D REQUIREMENT
+7	Avinash	Oct 19, 2015	Yes	Wi-fi does not connect automatically	When I come home, phone does not connect automatically to the home network. Even trying to connect manually does nit work. I have to reboot the phone and then if connects automatically

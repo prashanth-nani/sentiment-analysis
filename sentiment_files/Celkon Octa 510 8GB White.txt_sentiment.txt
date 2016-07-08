@@ -1,0 +1,14 @@
+Number of sentiment words : 7
+
+Most used positive words : 
+good - 2
+work - 2
+like - 1
+
+Most used negative words : 
+irritate - 1
+spoiled - 1
+
+Percentage of positive words : 71.428571
+Percentage of negative words : 28.571429
+------------------------------------------------------------------------------------------------------------------

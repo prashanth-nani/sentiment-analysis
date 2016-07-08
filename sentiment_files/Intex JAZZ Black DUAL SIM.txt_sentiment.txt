@@ -1,0 +1,16 @@
+Number of sentiment words : 7
+
+Most used positive words : 
+variety - 1
+recommend - 1
+happy - 1
+best - 1
+good - 1
+easy - 1
+
+Most used negative words : 
+useless - 1
+
+Percentage of positive words : 86.666667
+Percentage of negative words : 13.333333
+------------------------------------------------------------------------------------------------------------------

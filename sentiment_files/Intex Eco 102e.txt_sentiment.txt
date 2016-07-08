@@ -1,0 +1,13 @@
+Number of sentiment words : 5
+
+Most used positive words : 
+good - 2
+available - 1
+comfortable - 1
+
+Most used negative words : 
+vibrate - 1
+
+Percentage of positive words : 90.000000
+Percentage of negative words : 10.000000
+------------------------------------------------------------------------------------------------------------------

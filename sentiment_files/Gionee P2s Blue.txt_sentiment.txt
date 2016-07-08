@@ -1,0 +1,14 @@
+Number of sentiment words : 6
+
+Most used positive words : 
+superior - 1
+smart - 1
+like - 1
+
+Most used negative words : 
+hard - 2
+mediocre - 1
+
+Percentage of positive words : 62.500000
+Percentage of negative words : 37.500000
+------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+Number of sentiment words : 5
+
+Most used positive words : 
+best - 1
+good - 1
+like - 1
+perfect - 1
+
+Most used negative words : 
+hang - 1
+
+Percentage of positive words : 91.666667
+Percentage of negative words : 8.333333
+------------------------------------------------------------------------------------------------------------------

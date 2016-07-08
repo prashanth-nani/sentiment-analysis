@@ -1,0 +1,16 @@
+Number of sentiment words : 10
+
+Most used positive words : 
+good - 4
+vibrant - 1
+recommend - 1
+fast - 1
+interesting - 1
+work - 1
+
+Most used negative words : 
+loud - 1
+
+Percentage of positive words : 95.454545
+Percentage of negative words : 4.545455
+------------------------------------------------------------------------------------------------------------------

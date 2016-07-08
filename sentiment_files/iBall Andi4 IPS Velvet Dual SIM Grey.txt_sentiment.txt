@@ -1,0 +1,15 @@
+Number of sentiment words : 6
+
+Most used positive words : 
+nice - 1
+reasonable - 1
+easy - 1
+
+Most used negative words : 
+problem - 1
+concern - 1
+cheap - 1
+
+Percentage of positive words : 55.555556
+Percentage of negative words : 44.444444
+------------------------------------------------------------------------------------------------------------------

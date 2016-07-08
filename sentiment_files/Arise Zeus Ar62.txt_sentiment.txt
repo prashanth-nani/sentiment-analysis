@@ -1,0 +1,16 @@
+Number of sentiment words : 7
+
+Most used positive words : 
+prize - 1
+prompt - 1
+happy - 1
+best - 1
+cheapest - 1
+like - 1
+
+Most used negative words : 
+problem - 1
+
+Percentage of positive words : 84.615385
+Percentage of negative words : 15.384615
+------------------------------------------------------------------------------------------------------------------

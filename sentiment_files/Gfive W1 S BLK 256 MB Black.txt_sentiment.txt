@@ -1,0 +1,23 @@
+Number of sentiment words : 26
+
+Most used positive words : 
+good - 8
+nice - 4
+worth - 2
+great - 2
+friendly - 1
+best - 1
+like - 1
+awesome - 1
+satisfied - 1
+work - 1
+recomend - 1
+fast - 1
+well - 1
+
+Most used negative words : 
+cheap - 1
+
+Percentage of positive words : 98.437500
+Percentage of negative words : 1.562500
+------------------------------------------------------------------------------------------------------------------

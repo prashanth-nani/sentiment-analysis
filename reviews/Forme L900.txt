@@ -1,0 +1,11 @@
+Review No.	Reviewer Name	Date	Verified Buyer	Title	Review
+1	kurban	Oct 10, 2015	Yes	Very good low price	Awasome phone and powerful battery backup,thanks snapdeal
+2	pramod	Oct 10, 2015	Yes	NA	lack of vibration while ring. otherwise it is too good product.
+3	nagaraj	Oct 10, 2015	Yes	gud product	Gud product
+4	jitendra	Oct 10, 2015	Yes	perfect product to deal	Perfect with this price . Infacts its much more commiteming than high end mobiles
+5	deepak	Oct 10, 2015	Yes	best phone	Excellent
+6	Sudip Das	Oct 10, 2015	Yes	very good	good product
+7	Akriti29	Oct 10, 2015	Yes	Worth the price paid!	The phone is worth its price and has a good camera and awesome sound as well.  The looks of the phone are also pretty decent as compared to its peers.
+8	tomar	Oct 10, 2015	Yes	good one	good one
+9	manju	Oct 10, 2015	Yes	good	Very gd phone
+10	Sonya	Oct 10, 2015	Yes	Produt Rate	good

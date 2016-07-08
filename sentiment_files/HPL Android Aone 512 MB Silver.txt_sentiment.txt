@@ -1,0 +1,11 @@
+Number of sentiment words : 2
+
+Most used positive words : 
+support - 1
+
+Most used negative words : 
+complaint - 1
+
+Percentage of positive words : 66.666667
+Percentage of negative words : 33.333333
+------------------------------------------------------------------------------------------------------------------

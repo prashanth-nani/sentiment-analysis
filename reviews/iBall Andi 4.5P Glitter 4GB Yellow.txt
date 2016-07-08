@@ -1,0 +1,9 @@
+Review No.	Reviewer Name	Date	Verified Buyer	Title	Review
+1	raj	May 29, 2015	Yes	nice	Good product nice design durable battery good camera cheap n best   Rajkumar 619
+2	angappan	May 29, 2015	Yes	average	Nice to use
+3	talha	May 29, 2015	Yes	not so good	Its flash is very bad and look not so nice and battery capacity is not good but camera is very nice
+4	uncle	May 29, 2015	Yes	nice phone	I am happy with the device and I think it is a great smart phone and people should really buy it
+5	Beda maya Mongar	May 29, 2015	Yes	That's Good Stuff	The product is good
+6	Papu	May 29, 2015	Yes	awesom phone	Phone is very good except battery
+7	vijay	May 29, 2015	Yes	smart phone	its very good looking smart phone
+8	Sonu	May 29, 2015	No	Battery	This is bad for phone 1450 mAh Battery life. after 3hr battery gos to low and phone shutdown...

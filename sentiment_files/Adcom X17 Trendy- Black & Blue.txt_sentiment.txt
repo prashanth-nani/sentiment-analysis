@@ -1,0 +1,11 @@
+Number of sentiment words : 2
+
+Most used positive words : 
+good - 1
+
+Most used negative words : 
+loud - 1
+
+Percentage of positive words : 75.000000
+Percentage of negative words : 25.000000
+------------------------------------------------------------------------------------------------------------------

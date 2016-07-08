@@ -1,0 +1,3 @@
+Review No.	Reviewer Name	Date	Verified Buyer	Title	Review
+1	Vk	Mar 16, 2016	Yes	Well done Snapdeal	Its good product
+2	dev	Mar 16, 2016	Yes	snapdeal is the perfect destination for buyers	my product  is fine thanks snapeal

@@ -1,0 +1,12 @@
+Review No.	Reviewer Name	Date	Verified Buyer	Title	Review
+1	ROUF	Aug 12, 2014	Yes	good product	display is not good.
+2	Rocket	Aug 12, 2014	Yes	nice	good
+3	vinod	Aug 12, 2014	Yes	A6	value for money
+4	khyati	Aug 12, 2014	No	good phone	phone is good. its features are good but its usb connection is complicated and net connection is normal. other features are above satisfactory
+5	Meenaz	Aug 12, 2014	Yes	Charger Problem	carbonn A6 (Black-White)- I was mobile, but the problem of the charger. Mobile charger is not connected.
+6	Jaggi	Aug 12, 2014	Yes	Great Phone with low price	Configurations are good..... camera is average....but digital camera(front) is still better than any VGA camera.... Nice body cover and it is slim...... battery backup is not bad.....still this phone accommodate one to one and a half day on battery.....
+7	Anand Jain	Aug 12, 2014	Yes	Not That Much Good What I Expected	Its Old Model.. In Market Now 4.2 Jellybean Version Is Available. And You Provide Us The Old Model At High Cost
+8	jacken	Aug 12, 2014	Yes	not so satisfied with the product.	Very low internal storage and hard to move apps to SDcard.
+9	Jitendra	Aug 12, 2014	Yes	Not Good	Phone is good,but low internal memory and camera quality poor.no benefit of flash lite..
+10	sdfghj	Aug 12, 2014	Yes	good	Feature and look is good average camera quality and sound quality overall good android mobile in less price
+11	anil	Jan 07, 2014	Yes	I like the product very much.	According to the price ,its very cheap. its very easy to use.

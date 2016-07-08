@@ -1,0 +1,5 @@
+Review No.	Reviewer Name	Date	Verified Buyer	Title	Review
+1	Yogesh	Apr 09, 2013	Yes	Wonderful Product i got	The product is wonderful except it battery backup is not that much which i had thought
+2	Ram	Apr 09, 2013	Yes	Good product.. bit costly..	Good product.
+3	sv	Apr 09, 2013	Yes	simply the best	nice one
+4	DRG	Apr 09, 2013	No	looks good...	it has very good features for a mid range device with 4.3"display, dual core 1ghz processor, 768 mb ram and dual sim.

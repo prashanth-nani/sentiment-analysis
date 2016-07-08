@@ -1,0 +1,8 @@
+Review No.	Reviewer Name	Date	Verified Buyer	Title	Review
+1	guddu	Jun 11, 2015	Yes	nice phone	nice phone
+2	Abin S	Jun 11, 2015	Yes	I like this product	Its perfect and this product is best quality. This is the budget product.
+3	Swami	Jun 11, 2015	Yes	iball keeps your eye ball rolling.	Best phone in this segment.  Purchased after lot of home and very much satisfied. Product finish is super.
+4	Suriya	Jun 11, 2015	Yes	Good Speed Phone	Good Stuff phone.but camera not so good.
+5	neet	Jun 11, 2015	Yes	I had purchased a smartphone iball	Looks great, that's good stuff
+6	Manju	Jun 11, 2015	Yes	good	ok
+7	Shubh	Jun 11, 2015	Yes	I ball Andy 5Q REview	the phone is average.  Camara Quality is not soo good.  phone hangs while playing high graphic games.

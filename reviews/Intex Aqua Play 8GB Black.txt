@@ -1,0 +1,4 @@
+Review No.	Reviewer Name	Date	Verified Buyer	Title	Review
+1	deepanshu 0013	Mar 02, 2016	Yes	Awesome android phone	In this range is the best phone with great specification
+2	jhonson.royalle	Mar 02, 2016	Yes	Best product	I like it  It is perfect for me .
+3	AK	Mar 02, 2016	Yes	Nice to use	Nice to the price

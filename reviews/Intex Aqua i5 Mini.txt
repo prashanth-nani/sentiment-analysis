@@ -1,0 +1,7 @@
+Review No.	Reviewer Name	Date	Verified Buyer	Title	Review
+1	pradeep	Apr 27, 2015	Yes	That's Good Stuff	good product, easy to operate, charging will not come for more time as specified in broucher.
+2	Arshad	Apr 27, 2015	Yes	very good phone in this price	this is very good phone in this price, good camera, good battery backup and performance is superb, i recomanded to all for buy this phone.
+3	sachin	Apr 27, 2015	Yes	Fine product	Good product at this price . Phone function are super battry is also ok
+4	Arka	Apr 27, 2015	Yes	nice phone with these specs	everything is nice but ROM is 1.72 GB not 4GB and app storage is still less and it cant be upgraded as intex has no intention to do. I think one should go for android one phone if he dont want 8MP phone in these price And ofcourse it is indian brand and money you spend will be in india only. It also has pre installed iOS UI But it have very poor battery life
+5	GYAN	Apr 27, 2015	Yes	WOW	THAT'S A PRODUCT WORTH BUY. GOOD DISCOUNT,ALL ACCESSORIES, WELL PACKED WITH WARRANTY PAPER. NICE ONE
+6	Milan	Apr 27, 2015	Yes	Good One for this price...	Good product at chip rate

@@ -1,0 +1,12 @@
+Number of sentiment words : 4
+
+Most used positive words : 
+good - 2
+fast - 1
+super - 1
+
+Most used negative words : 
+
+Percentage of positive words : 100.000000
+Percentage of negative words : 0.000000
+------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+Number of sentiment words : 6
+
+Most used positive words : 
+good - 2
+satisfy - 1
+positive - 1
+
+Most used negative words : 
+unable - 1
+sink - 1
+
+Percentage of positive words : 81.818182
+Percentage of negative words : 18.181818
+------------------------------------------------------------------------------------------------------------------

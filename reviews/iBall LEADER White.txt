@@ -1,0 +1,3 @@
+Review No.	Reviewer Name	Date	Verified Buyer	Title	Review
+1	jagan.bogadi	Mar 02, 2016	Yes	good product	very good product in the range of price
+2	raju	Mar 02, 2016	Yes	nice	very good performance like  octo core processor

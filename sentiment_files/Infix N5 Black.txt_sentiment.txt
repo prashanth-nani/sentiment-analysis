@@ -1,0 +1,13 @@
+Number of sentiment words : 4
+
+Most used positive words : 
+well - 1
+work - 1
+
+Most used negative words : 
+fake - 1
+cheap - 1
+
+Percentage of positive words : 33.333333
+Percentage of negative words : 66.666667
+------------------------------------------------------------------------------------------------------------------
