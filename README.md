@@ -1,12 +1,11 @@
-## Snapdeal Review Grabber
+## Snapdeal Crawler
 
 #### Features:
 * Option to choose a proxy connection
 * Works with authenticated proxy
 * Fetches all the reviews of ALL the mobile phones available
 * Record logs to capture errors
-* Manages directories by itself (Automatic cleaning up of files when execution starts)
-* Well documented with comments
+* Manages directories by itself (Automatic cleaning up of files when execution starts)u
 
 #### Requirements:
 * Python 3.4+
